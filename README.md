@@ -1,6 +1,6 @@
 ### Hi, I'm whirlygig!
 
-My name is [Emily Garcia](https://www.linkedin.com/in/whirlygig/) and I like doing front-end work. Check out my [senior project](https://whirlygig.github.io/senior-project/), a website made in React that simulates a desktop and many applications that come with a regular  operating system. I've also worked with [Bridge](https://bridgemh.com/), a small mental health-based startup in San Luis Obispo, and with the [Global Program for Safer Schools](https://gpss.worldbank.org/) on a wireframe for a dashboard to simplify their data input.
+My name is [Emily Garcia](https://www.linkedin.com/in/whirlygig/) and I like doing front-end work. Check out my [senior project](https://whirlygig.github.io/senior-project/), a website made in React that simulates a desktop and many applications that come with a regular  operating system. I've also worked with [Bridge](https://bridgemh.com/), a small mental health-based startup in San Luis Obispo, and with the [Global Program for Safer Schools](https://gpss.worldbank.org/) on a wireframe for a dashboard to simplify their data input. (Unfortunately, my work with both of these groups is required to be private.)
 
 I'm a recent Cal Poly Software Engineering graduate. Here's some of the classes I took:
 - Intro to Entrepreneurship
